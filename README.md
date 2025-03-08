@@ -1,0 +1,1 @@
+Esse challenge consiste em inserir nomes de amigos e fazer um sorteio com os nomes inseridos, cada inserção de nome deve ser única e a cada sorteio, o nome que já foi sorteado perde a vez dando espaço para outro nome.
